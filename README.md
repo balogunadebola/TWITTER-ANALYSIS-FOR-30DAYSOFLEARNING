@@ -30,7 +30,7 @@ Here, i was able to visualize the summary of activity of the hashtag. Key metric
 - Number of tweets
 - Number of users of hashtag
 - Number of likes to hashtag
-- Tweets by Day
+- Tweets by Day - What days do we have the most tweets to the hashtag?
 - Top five users of hashtag - Who are the top users of the hashtag?
 - Tweets by device - What device are users deploying to engage the hashtag?
 - Day of the week with most tweets - What day of the week do we have the highest engagement of the hashtag?
@@ -43,12 +43,17 @@ Here, i was able to visualize the summary of activity of the hashtag. Key metric
 # Data Visualization (Content Analysis)
 In the aspect of content analysis, i looked at a number of metrics which include:
 - The top tools used by students to learn data analysis.
-- Top five Locations with the most tweets
+- Top five Locations with the most tweets - What part of the world are the users of the hashtag from?
 - A wordcloud to depict the popular keywords used by students whilst engaging with the hashtag.
+- The actual tweets by the users. This is visualised in a table at the bottom right corner of the image below.
 
 ![Content Analysis](https://user-images.githubusercontent.com/107516898/177008971-137a61d9-a42c-42fa-97d6-add3a42d67a9.png)
 
 
 
 ----
-# Data Visualization (Dashboard)![dashboard](https://user-images.githubusercontent.com/107516898/177008976-482214d8-4431-4fd9-9c88-4c11b7ceda6e.png)
+# Data Visualization (Dashboard-mobile mode)
+The image below has in portrait mode, some key metrics relating to the usage of the hashtag explained earlier.
+
+
+![dashboard](https://user-images.githubusercontent.com/107516898/177008976-482214d8-4431-4fd9-9c88-4c11b7ceda6e.png)
