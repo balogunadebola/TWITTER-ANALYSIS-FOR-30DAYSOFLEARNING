@@ -31,9 +31,9 @@ Here, i was able to visualize the summary of activity of the hashtag. Key metric
 - Number of users of hashtag
 - Number of likes to hashtag
 - Tweets by Day
-- Top five users of hashtag (Who are the top users of the hashtag?)
-- Tweets by device (What devices are users deploying to engage the hashtag?)
-- Day of the week with most tweets (What day of the week do we have the highest engagement of the hashtag?)
+- Top five users of hashtag - Who are the top users of the hashtag?
+- Tweets by device - What device are users deploying to engage the hashtag?
+- Day of the week with most tweets - What day of the week do we have the highest engagement of the hashtag?
 
 ![Tweet Summary](https://user-images.githubusercontent.com/107516898/177008965-74fc85a1-fe70-4642-96b2-ae5facc2a8a2.png)
 
