@@ -1,5 +1,7 @@
 # Project Name: TWITTER-ANALYSIS-FOR-30DAYSOFLEARNING
 
+
+
 ----
 # Project Objective: Problem Statement
 This pet project is aimed at understanding key trends as it relates to the topic "TWITTER ANALYSIS FOR 30 DAYS OF LEARNING. 
