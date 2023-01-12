@@ -4,7 +4,7 @@
 
 ----
 # Project Objective: Problem Statement
-This pet project is aimed at understanding key trends as it relates to the topic "TWITTER ANALYSIS FOR 30 DAYS OF LEARNING. 
+This pet project is aimed at understanding key metrics as it relates to the topic - TWITTER ANALYSIS FOR 30 DAYS OF LEARNING. 
 
 ![Tweet Problem Statement](https://user-images.githubusercontent.com/107516898/177009241-10b9e8b9-06c5-4e44-9784-d94d17ac1b3f.png)
 
@@ -31,7 +31,6 @@ I was able to transform the data through Power BI's Power Query editor, wherein 
 Here, i was able to visualize the summary of activity of the hashtag. Key metrics developed include:
 - Number of tweets
 - Number of users of hashtag
-- Number of likes to hashtag
 - Tweets by Day - What days do we have the most tweets to the hashtag?
 - Top five users of hashtag - Who are the top users of the hashtag?
 - Tweets by device - What device are users deploying to engage the hashtag?
