@@ -18,7 +18,7 @@ Data used for this project was sourced from the "30DAYSOFLEARNING USING POWERBI 
 
 ----
 # Data Transformation
-I was able to transform the data through Power BI's Power Query editor, wherein i corrected some basic errors in the data such as wrong data type, date errors, removal of unnecessary columns, removal of errors and a host of others. 
+I was able to transform the data through Power BI's Power Query editor, wherein i did some data cleaning such as removal of unwanted rows, correcting the data type, date errors, removal of unnecessary columns, removal of errors and a host of others. 
 
 ![Twitter Analysis Transformation](https://user-images.githubusercontent.com/107516898/177008950-5aa84e28-b37b-438f-967c-f5e2d3bd5a27.png)
 
@@ -31,9 +31,9 @@ Here, i was able to visualize the summary of activity of the hashtag. Key metric
 - Number of users of hashtag
 - Number of likes to hashtag
 - Tweets by Day
-- Top five users of hashtag
-- Tweets by device
-- Day of the week with most tweets
+- Top five users of hashtag (Who are the top users of the hashtag?)
+- Tweets by device (What devices are users deploying to engage the hashtag?)
+- Day of the week with most tweets (What day of the week do we have the highest engagement of the hashtag?)
 
 ![Tweet Summary](https://user-images.githubusercontent.com/107516898/177008965-74fc85a1-fe70-4642-96b2-ae5facc2a8a2.png)
 
