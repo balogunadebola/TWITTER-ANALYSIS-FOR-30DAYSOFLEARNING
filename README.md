@@ -3,7 +3,7 @@
 
 
 ----
-# Project Objective: Problem Statement
+# Project Objective: 
 This pet project is aimed at understanding key metrics as it relates to the topic - TWITTER ANALYSIS FOR 30 DAYS OF LEARNING. 
 
 ![Tweet Problem Statement](https://user-images.githubusercontent.com/107516898/177009241-10b9e8b9-06c5-4e44-9784-d94d17ac1b3f.png)
